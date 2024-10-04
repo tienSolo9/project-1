@@ -1,0 +1,5 @@
+.menu a:first-child {
+    background: #fff;
+    color: #000;
+    border-radius: 25px;
+}

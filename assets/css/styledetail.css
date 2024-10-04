@@ -1,0 +1,53 @@
+.detail-title{
+    text-align: center;
+    color:#fff;
+    padding: 30px;
+    margin: 30px;
+border-radius: 30px;
+    box-sizing: border-box;
+    margin-top:100px;
+    background-color: #fc7700;
+}
+
+.cost{
+    color:red;
+}
+#p1{
+    width: 500px;
+    height: 250px;
+    float: right;
+}
+.pp{
+    margin: 30px 0px;
+}
+.detail-main{
+    max-width: 80%; 
+    margin: auto;
+}
+.detail-content-title{
+    text-align: center;
+    color: brown;
+    margin-top: 10px;
+}
+.detail-content{
+    padding: 0px 20px 10px;
+    border: 10px solid blanchedalmond;
+    border-radius: 40px;
+    background-color:blanchedalmond;
+}
+h2{
+    text-align: left;
+    color:rgb(255, 106, 0);
+text-indent: 70px;
+}
+h3{
+    color:crimson;
+}
+.detail{
+   
+    padding: 30px;
+}
+.info h2{
+    text-align: left;
+    text-indent: 0px;
+}
